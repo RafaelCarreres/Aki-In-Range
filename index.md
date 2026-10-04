@@ -33,7 +33,7 @@ Up to one year. The first time you open a long period, the app downloads the mis
 Yes. Choose Apple Maps, Google Maps or Waze in Settings.
 
 **Does the app collect my data?**
-No. See the [Privacy Policy](PRIVACY_POLICY_URL).
+No. See the [Privacy Policy](https://rafaelcarreres.github.io/Aki-In-Range/privacy/).
 
 ---
 
@@ -72,4 +72,4 @@ Hasta un año. La primera vez que abres un periodo largo, la app descarga los d�
 Sí. Elige Apple Maps, Google Maps o Waze en Ajustes.
 
 **¿La app recoge mis datos?**
-No. Consulta la [Política de privacidad](PRIVACY_POLICY_URL).
+No. Consulta la [Política de privacidad](https://rafaelcarreres.github.io/Aki-In-Range/privacy/).
